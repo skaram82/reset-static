@@ -48,63 +48,10 @@
 		<lastmod>2021-11-23T09:01:57+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/news/</loc>
-		<lastmod>2021-11-23T09:04:53+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/05/RESET_logo.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/11/GBV-campaign-JOIN-US-supera2021-300x150.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/11/reset_webinar-300x150.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/11/reset_paoletti-300x225.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/07/reset_newsletter1-295x300.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/07/wp2_capacbuild-300x225.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/07/reset_gep-300x244.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/07/women_cybersec_01-300x202.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/06/reset_consortium_meeting-300x175.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/05/gec2021-300x135.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/synergies/</loc>
 		<lastmod>2021-11-23T09:09:26+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2021/11/GBV-campaign-JOIN-US-supera2021-300x150.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/events/</loc>
-		<lastmod>2021-11-23T09:10:31+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/11/reset_webinar-300x150.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/07/wp2_capacbuild-300x225.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/07/reset_gep-300x244.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/07/women_cybersec_01-300x202.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/05/reset_logo_contest-300x165.jpeg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -548,6 +495,74 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/elementor/thumbs/LDF_feed_2_EN-qn66xihe76yztgnp4w4g6sw09iev6wjgiitooye9w8.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/news/</loc>
+		<lastmod>2025-03-21T14:07:33+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/12/IMG_8643-225x300.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/05/RESET_logo.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/RESET-policy-event-social-media-1-300x300.png?ver=1732280388</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/int_day_elimination_violence_against_women-1-212x300.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/European-Equal-Day-1-300x300.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/18_eu_women_pharma-1-1-300x135.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/genderaction_logo-300x225.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/research_night24-212x300.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/comprehesive_guide_feminist_lodz-232x300.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/25Abril_Democracia_Liberdade_ft-300x300.jpeg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/events/</loc>
+		<lastmod>2025-03-21T14:08:45+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/RESET-policy-event-social-media-1-300x300.png?ver=1732280388</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/int_day_elimination_violence_against_women-1-212x300.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/25Abril_Democracia_Liberdade_ft-300x300.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/redesigning_work_life_balance-1-212x300.png?ver=1718014627</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/RESET-hackathon-1-1-300x169.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/LDF_feed_3_EN-300x300.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/LDF_feed_2_EN-300x300.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/Gender-gaps-facebook-1-300x251.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/02/International-Day-of-Girl-Child-300x300.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/02/Template-informational-slide-300x300.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
